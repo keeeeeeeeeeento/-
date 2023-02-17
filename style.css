@@ -69,7 +69,7 @@ img {max-width: 100%;}
   background-repeat: no-repeat;
 }
 #home {
-  background-image:  url("../images/md.jpg");
+  background-image:  url(IMG_7026.jpeg);
   min-height: 100vh;
 }
 #home .page-title {
@@ -333,3 +333,4 @@ input[type="submit"] {
   cursor: pointer;
   line-height: 1;
 }
+
