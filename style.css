@@ -78,7 +78,7 @@ img {max-width: 100%;}
 /*NEWS
 -----------------------------*/
 #news {
-  background-image: url(../images/uchu.jpg);
+  background-image: url(IMG_7026.jpeg);
   height: 270px;
   margin-bottom: 40px;
 }
@@ -257,7 +257,7 @@ aside {
 /* MENU
 ---------------------------- */
 #menu {
-  background-image: url(../images/r2d2.jpeg);
+  background-image: url(IMG_7026.jpeg);
   min-height: 100vh;
 }
 .menu-content {
@@ -300,7 +300,7 @@ aside {
 /* Contact
 -------------------------- */
 #contact {
-  background-image: url(../images/16.jpg);
+  background-image: url(IMG_7026.jpeg);
   min-height: 100vh
 }
 
