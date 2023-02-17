@@ -303,6 +303,19 @@ aside {
   background-image: url(IMG_7026.jpeg);
   min-height: 100vh
 }
+/*HEADER*/
+.main-nav {
+  font-size:1rem;
+  margin-top:10px;
+}
+  .main-nav li {
+   margin: 0 20px;
+  }
+
+/* HOME */
+.home-content {
+  margin-top: 20%;
+  }
 
 /* フォーム　*/
 form div {
@@ -332,4 +345,5 @@ input[type="submit"] {
   border: none;
   cursor: pointer;
   line-height: 1;
+}
 }
